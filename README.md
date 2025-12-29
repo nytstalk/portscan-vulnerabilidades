@@ -23,7 +23,7 @@ Designed for network administrators and security auditors to quickly assess the 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/port-scanner-python.git](https://github.com/SEU_USUARIO/port-scanner-python.git)
+   git clone [https://github.com/nytstalk/port-scanner-python.git](https://github.com/nytstalk/port-scanner-python.git)
    cd port-scanner-python
    ```
 
@@ -81,7 +81,7 @@ Projetado para administradores de rede e auditores de segurança para a avaliaç
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/port-scanner-python.git](https://github.com/SEU_USUARIO/port-scanner-python.git)
+   git clone [https://github.com/nytstalk/port-scanner-python.git](https://github.com/nytstalk/port-scanner-python.git)
    cd port-scanner-python
    ```
 
