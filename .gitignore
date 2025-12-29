@@ -1,0 +1,4 @@
+# Ignorar arquivos de log e resultados JSON
+*.json
+*.log
+scan_*.txt
